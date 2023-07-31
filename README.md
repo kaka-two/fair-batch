@@ -9,10 +9,13 @@ The algo.py file Is the core algorithm code of our paper.
 The env.py is partial environmental variable data.
 
 ## Model and Dataset In Testbed
+Face recognition
 https://github.com/nguyentheanh17112002/Resnet34.
 
+Road sign recognition
 https://github.com/GusevPortfolio/Road-Sign-Recognition-model-ML.
 
+Manhole cover identification
 https://github.com/FiratSaritas/manhole-cover-classification.
 
 ## License
