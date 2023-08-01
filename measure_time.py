@@ -2,7 +2,7 @@ import torch
 import torchvision
 import time
 
-iterations = 20
+iterations = 100
 start = 1
 num = 21
 size = 224
