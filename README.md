@@ -8,6 +8,8 @@ The algo.py file Is the core algorithm code of our paper.
 
 The env.py is partial environmental variable data.
 
+The measure_time.py is used for measuring batch processing time.
+
 ## Model and Dataset In Testbed
 Face recognition
 https://github.com/nguyentheanh17112002/Resnet34.
