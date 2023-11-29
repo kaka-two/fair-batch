@@ -10,7 +10,7 @@ The env.py is partial environmental variable data.
 
 The measure_time.py is used for measuring batch processing time.
 
-Fig.py is the used data in Fig 1.
+Fig1.py is the used data in Fig 1.
 
 ## Model and Dataset In Testbed
 Face recognition
