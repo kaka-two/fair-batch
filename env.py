@@ -28,6 +28,12 @@ inference_time_edge = [
 
 ]
 
+# For Fig.1
+inference_time_edge = [
+[7.35, 7.76, 6.93, 7.95, 7.73],
+[28.52, 28.85, 39.34, 54.69, 60.8]
+]
+
 inference_time_edge = [[y * 1.3 for y in x] for x in inference_time_edge]
 inference_time_local = [
     [47.038, 215.772, 147.884, 508.42, 64.391, 244.08,     47.038, 215.772, 147.884, 508.42, 64.391, 244.08,     47.038, 215.772, 147.884, 508.42, 64.391, 244.08],
