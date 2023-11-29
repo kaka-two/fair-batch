@@ -7,6 +7,7 @@ The code is written in Python 3.7.
 The algo.py file Is the core algorithm code of our paper. 
 
 The env.py is partial environmental variable data.
+The data used in Figure 1 can be found in env.py.
 
 The measure_time.py is used for measuring batch processing time.
 
