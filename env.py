@@ -33,6 +33,7 @@ inference_time_edge = [
 # [7.04, 7.45, 8.9, 7.95, 9.1],
 # [28.52, 28.85, 39.34, 54.69, 60.8]
 # ]
+# bandwidth = 5 # MHz
 
 inference_time_edge = [[y * 1.3 for y in x] for x in inference_time_edge]
 inference_time_local = [
