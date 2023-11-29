@@ -7,7 +7,9 @@ The code is written in Python 3.7.
 The algo.py file Is the core algorithm code of our paper. 
 
 The env.py is partial environmental variable data. 
-The used data of Fig 1 is in env.py.
+
+Motivating example(Fig.1)---->exhustive search: traverse each one of the possible schedulings.
+The used data of Fig.1 is in env.py.
 
 The measure_time.py is used for measuring batch processing time.
 
